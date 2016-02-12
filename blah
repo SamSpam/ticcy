@@ -1,0 +1,5 @@
+//Browserify + React using Tape
+
+npm i babel-preset-es2015 babel-preset-react babel-preset-stage-0 babelify browserify http-server json-server ramda react react-addons-pure-render-mixin react-dom react-redux react-router redux watchify -S
+
+npm i chai chai-enzyme chai-immutable cheerio enzyme jsdom tape react-addons-test-utils -D
